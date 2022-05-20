@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/main.cpp
+iostream
+-
+subvector_class.h
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/subvector_class.h
+forward_list
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/forward_list
+subforwardlist_class.h
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/subforwardlist_class.h
+random
+-
+chrono
+-
+algorithm
+-
+vector
+-
+fstream
+-
+list
+-
+map
+-
+set
+-
+
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/subforwardlist_class.h
+algorithm
+-
+
+C:/Users/SOFIA KANYUKOVA/Desktop/subvector/subvector_class.h
+algorithm
+-
+

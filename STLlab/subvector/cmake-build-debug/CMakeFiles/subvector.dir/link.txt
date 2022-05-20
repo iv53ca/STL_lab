@@ -1,0 +1,3 @@
+"E:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\subvector.dir/objects.a
+E:\file1\mingw32\bin\ar.exe cr CMakeFiles\subvector.dir/objects.a @CMakeFiles\subvector.dir\objects1.rsp
+E:\file1\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\subvector.dir/objects.a -Wl,--no-whole-archive -o subvector.exe -Wl,--out-implib,libsubvector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\subvector.dir\linklibs.rsp
